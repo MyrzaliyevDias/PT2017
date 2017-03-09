@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\Mid1\Mid1\bin\Debug\Mid1.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Mid1\Mid1\obj\Debug\Mid1.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Mid1\Mid1\bin\Debug\Mid1.exe
+c:\users\user\documents\visual studio 2015\Projects\Mid1\Mid1\bin\Debug\Mid1.pdb
+c:\users\user\documents\visual studio 2015\Projects\Mid1\Mid1\obj\Debug\Mid1.exe
+c:\users\user\documents\visual studio 2015\Projects\Mid1\Mid1\obj\Debug\Mid1.pdb
