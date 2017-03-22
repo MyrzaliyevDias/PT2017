@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsCalculator\WindowsFormsCalculator\bin\Debug\`.exe.config
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsCalculator\WindowsFormsCalculator\bin\Debug\`.exe
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsCalculator\WindowsFormsCalculator\bin\Debug\`.pdb
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\`.exe
+c:\users\user\documents\visual studio 2015\Projects\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\`.pdb
+C:\Users\User\documents\visual studio 2015\Projects\WindowsFormsCalculator\WindowsFormsCalculator\obj\Debug\WindowsFormsCalculator.csprojResolveAssemblyReference.cache
